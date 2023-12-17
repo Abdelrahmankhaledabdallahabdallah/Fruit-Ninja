@@ -1,0 +1,21 @@
+- Animation
+- Strategy
+- Swipe 
+- Mouse tracker
+- Factory
+- Fonts
+- Display lives
+- Report
+- MVC
+- Singleton
+- Command
+- Audio Handling
+- Combo
+- Load
+- Game Over
+- Class Diagram
+- Sequence Diagram
+- Save
+- Time
+- Levels
+- Special fruits
